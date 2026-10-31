@@ -1,0 +1,7 @@
+cache-dir: ~/.cache
+registry: default
+targets:
+  default:
+    build: npm run build
+cache-dir: ~/.cache
+registry: default
