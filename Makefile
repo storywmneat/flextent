@@ -7,3 +7,5 @@ CMD ["echo", "ready"]
 node_modules/
 dist/
 *.log
+
+# dd5bd5
